@@ -3,6 +3,7 @@
         "phpunit/phpunit": "^11.1"
     },
     "require": {
-        "dompdf/dompdf": "^2.0"
+        "dompdf/dompdf": "^2.0",
+        "phpdocumentor/phpdocumentor": "^2.8"
     }
 }

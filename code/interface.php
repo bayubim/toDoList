@@ -1,5 +1,5 @@
 <?php
-// Interface
+// Interface definisi
 interface Kendaraan
 {
     public function bahanBakar();
